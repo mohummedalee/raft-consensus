@@ -1,5 +1,5 @@
-## Raft : Implementation in GoLang
-CS 7610 Distributed Systems
+## Raft : Implementation in Go
+CS 7610: Distributed Systems
 
 December 3, 2018
 Muhammad Ali and Meredith Accum
